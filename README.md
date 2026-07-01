@@ -4,7 +4,7 @@
 An interactive Power BI dashboard designed to translate raw transactional retail data into strategic executive insights. The dashboard focuses on identifying global sales drivers, regional profitability disparities, product performance, and long-term macro-growth trends.
 
 ## Interactive Dashboard Sneak Peek
-![Superstore Dashboard](Superstore_Sales_Dashboard.png)
+![Superstore Dashboard](Dashboard.jpg)
 
 ## Key Business Insights (Data Storytelling)
 * **Revenue Leadership:** The store has achieved an overall **$12.6M in Total Sales** with a healthy **11.62% Profit Margin**. 
